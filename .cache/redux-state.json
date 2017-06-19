@@ -1,0 +1,268 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "component": "/Users/kirill/workspace/homepage/.cache/dev-404-page.js",
+      "path": "/dev-404-page/",
+      "componentChunkName": "page-component---cache-dev-404-page-js",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "context": {},
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "mediaType": "application/json",
+        "type": "SitePage",
+        "content": "{\"component\":\"/Users/kirill/workspace/homepage/.cache/dev-404-page.js\",\"path\":\"/dev-404-page/\",\"componentChunkName\":\"page-component---cache-dev-404-page-js\",\"jsonName\":\"dev-404-page.json\",\"internalComponentName\":\"ComponentDev404Page\",\"context\":{}}",
+        "contentDigest": "da1ac6d73d75e9ff6e3b0e2832ebab05",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/kirill/workspace/homepage/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin component-page-creator",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2f6a94f0b01947b2bbf82560a8c8f2e8",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"/Users/kirill/workspace/homepage/node_modules/gatsby/dist/internal-plugins/component-page-creator\",\"name\":\"component-page-creator\",\"version\":\"1.0.0\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/kirill/workspace/homepage/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin internal-data-bridge",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a8e4c9c59fef5815a36f8a4eed6dd4f0",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"/Users/kirill/workspace/homepage/node_modules/gatsby/dist/internal-plugins/internal-data-bridge\",\"name\":\"internal-data-bridge\",\"version\":\"1.0.0\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/kirill/workspace/homepage/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin dev-404-page",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c9cf637e7945529d4c8a284d0fd4a5be",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"/Users/kirill/workspace/homepage/node_modules/gatsby/dist/internal-plugins/dev-404-page\",\"name\":\"dev-404-page\",\"version\":\"1.0.0\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/kirill/workspace/homepage/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin query-runner",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "03bfd800785eb539b079d377345e2ca3",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"/Users/kirill/workspace/homepage/node_modules/gatsby/dist/internal-plugins/query-runner\",\"name\":\"query-runner\",\"version\":\"1.0.0\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/kirill/workspace/homepage",
+      "name": "default-site-plugin",
+      "version": "d41d8cd98f00b204e9800998ecf8427e",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "homepage",
+        "description": "homepage",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "ISC",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0-beta.2"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.0.0-beta.2"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin default-site-plugin",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "19697773317d60a0c24c5a7b252dc777",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"/Users/kirill/workspace/homepage\",\"name\":\"default-site-plugin\",\"version\":\"d41d8cd98f00b204e9800998ecf8427e\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {},
+      "port": "8000",
+      "host": "localhost",
+      "buildTime": "2017-06-17T11:14:22.960Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a0677c867edfb0af7f525f5d667c3dbf",
+        "content": "{\"siteMetadata\":{},\"port\":\"8000\",\"host\":\"localhost\",\"buildTime\":\"2017-06-17T11:14:22.960Z\"}",
+        "mediaType": "application/json",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "path": "/",
+      "component": "/Users/kirill/workspace/homepage/src/pages/index.js",
+      "componentChunkName": "page-component---src-pages-index-js",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "context": {},
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "mediaType": "application/json",
+        "type": "SitePage",
+        "content": "{\"path\":\"/\",\"component\":\"/Users/kirill/workspace/homepage/src/pages/index.js\",\"componentChunkName\":\"page-component---src-pages-index-js\",\"jsonName\":\"index.json\",\"internalComponentName\":\"ComponentIndex\",\"context\":{}}",
+        "contentDigest": "ba3ec5c20b54df92fc8bbf9361fda6b1",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "path": "/about/",
+      "component": "/Users/kirill/workspace/homepage/src/pages/about.js",
+      "componentChunkName": "page-component---src-pages-about-js",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "context": {},
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "mediaType": "application/json",
+        "type": "SitePage",
+        "content": "{\"path\":\"/about/\",\"component\":\"/Users/kirill/workspace/homepage/src/pages/about.js\",\"componentChunkName\":\"page-component---src-pages-about-js\",\"jsonName\":\"about.json\",\"internalComponentName\":\"ComponentAbout\",\"context\":{}}",
+        "contentDigest": "21345084892ef275670d6d845d0189b0",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "path": "/contact/",
+      "component": "/Users/kirill/workspace/homepage/src/pages/contact.js",
+      "componentChunkName": "page-component---src-pages-contact-js",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "context": {},
+      "id": "SitePage /contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "mediaType": "application/json",
+        "type": "SitePage",
+        "content": "{\"path\":\"/contact/\",\"component\":\"/Users/kirill/workspace/homepage/src/pages/contact.js\",\"componentChunkName\":\"page-component---src-pages-contact-js\",\"jsonName\":\"contact.json\",\"internalComponentName\":\"ComponentContact\",\"context\":{}}",
+        "contentDigest": "8ff439130182ec98d2f6db0c0602a0b9",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "e54c9dd6c2d6fd762a0bddc2d646a222"
+  },
+  "pageDataDependencies": {
+    "nodes": {},
+    "connections": {}
+  }
+}
